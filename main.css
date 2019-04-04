@@ -1,18 +1,25 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: #2C3E50;
-    /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #FD746C, #2C3E50);
-    /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #FD746C, #2C3E50);
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #757F9A;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #D7DDE8, #757F9A);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #D7DDE8, #757F9A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+    
 }
 
 .header {
-    margin-top: 20px;
-    opacity: 0.7;
+    /* margin-top: 20px; */
+
     background-color: #000;
-    padding: 4px;
+    padding: 10px;
+    background: #606c88;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3f4c6b, #606c88);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3f4c6b, #606c88);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
 h2 {
